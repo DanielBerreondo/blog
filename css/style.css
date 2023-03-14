@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(46, 46, 51);
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.lorem_section {
+    display: flex;
+    flex-direction: row;
+}
