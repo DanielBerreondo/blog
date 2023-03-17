@@ -8,3 +8,19 @@ body {
     display: flex;
     flex-direction: row;
 }
+
+.div_header {
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.logo_header {
+    background-image: url(../imagenes/alberta-ga3aca5a32_1280.jpg);
+    height: 300px;
+    width: 450px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+}
